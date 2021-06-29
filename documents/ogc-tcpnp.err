@@ -1,0 +1,233 @@
+/__w/ogc-tcpnp/ogc-tcpnp/site/documents/ogc-tcpnp.err errors
+
+
+== Bibliography
+
+(): ERROR: No title retrieved for ISO/IEC Directives, Part 2
+
+
+== Style
+
+(): Keywords are missing!
+(): Preface is missing!
+(): Submitting Organizations is missing!
+(): Submitters is missing!
+
+
+== Metanorma XML Style Warning
+
+(XML Line 000102): Hanging paragraph in clause
+	<clause id="purpose-and-composition-of-the-technical-committee" obligation="normative"><title>Purpose and Composition of the Technical Committee</title><p id="_e02ebe1d-2e8d-45a5-82eb-70296325591f">The OGC Corporate bylaws state that the OGC Technical Committee (TC) shall be responsible for developing standards through a cooperative consensus process involving the Members.<note id="_c95199c2-5bad-4245-97f6-7a64ff8c2527">
+	<p id="_addd0bcb-efe3-4bb4-a7d7-e9ad09d5d7fd">OGC standards are member approved interface and encoding engineering specifications developed via the OGC Consensus process that are publicly and openly available for use in the geospatial and IT community.</p>
+	</note></p>
+	
+	<p id="_367b4162-837f-402b-b172-d63d8d5c84b1">The bylaws provide authority to:</p>
+(XML Line 000175): Hanging paragraph in clause
+	<clause id="structure-of-the-technical-committee" obligation="normative"><title>Structure of the Technical Committee</title><p id="_8e1dee6f-c486-42ac-9ffa-b7d1f1b3ac2c">The TC is the primary group where OGC standards are developed, discussed, approved, and maintained. The TC members are responsible for the development and maintenance of all standards and related technical documents. The TC membership includes Voting TC Members, non-voting TC Members, and Invited Guests.</p>
+	<p id="_dc5f2d1e-7adc-4c8b-ad30-c99484ab7162">The Technical Committee is comprised of three primary subgroups: the OGC Naming Authority, Working Groups (WG), and Subcommittees (SC) to:</p>
+	<ul id="_68bbab78-d7e2-4f8c-8a67-f897805e0f9c">
+	<li>
+	<p id="_1d908829-78ad-44ae-b675-69ce19ff3919">Evaluate and provide guidance on architecture issues;</p>
+(XML Line 000202): Hanging paragraph in clause
+	<clause id="working-groups-wgs" obligation="normative"><title>Working Groups (WGs)</title><p id="_a85c4142-b2f2-46a5-9f48-a9126a1d396d">A group (organizationally, a subgroup of the TC) of individuals composed of members of the TC and invited guests, with the specific intent of solving some particular interoperability problem or problems in a particular technology domain for recommendation to the TC. A Group is not a subcommittee as outlined by the Bylaws of the OGC.</p>
+	<p id="_dc580942-6373-4388-a799-91793a662f02">There are two types of Working Groups in the TC:</p>
+	<ul id="_d9918091-c78e-4149-bc18-acab7b454ce8">
+	<li>
+	<p id="_19662384-edad-4d70-802b-3c5a1fbfdfb3">Domain Working Groups (DWGs) (<eref type="inline" bibitemid="OGCDWG" citeas="OGC Domain Working Groups"/>); and</p>
+(XML Line 000269): Hanging paragraph in clause
+	<clause id="meetings-of-the-technical-committee" obligation="normative"><title>Meetings of the Technical Committee</title><p id="_f0a8e350-31f2-407d-b8e4-f28bce546a9a">This section describes the Policies and Procedures for meetings of the OGC Technical Committee.</p>
+	<clause id="meetings-of-the-tc" obligation="normative"><title>Meetings of the TC</title><p id="_597cd967-1dc1-4d29-b81f-3058326af898">Technical Committee meetings shall be conducted under the general guidance of Robert’s Rules of Order (<eref type="inline" bibitemid="RONR" citeas="RONR"/>). Meetings shall be facilitated by the TCC or other appointed representative(s) of the OGC. The planning goal is to have four meetings per year. The number of meetings per year can be changed by a vote of the TC and the PC or by direction of the Board of Directors.</p>
+	<p id="_3a9287b1-e877-4123-a857-3e04b408e537">TC meeting dates and locations will be announced as far in advance as possible but no less than four months in advance of the meeting. Announcements will be through formal OGC Communication. All recommendations, summary notes, presentations, and so forth shall be posted to the OGC Member Portal.</p></clause>
+	<clause id="attendance-at-tc-meetings" obligation="normative">
+	<title>Attendance at TC Meetings</title>
+(XML Line 000328): Hanging paragraph in clause
+	<clause id="voting-during-and-between-tc-meetings" obligation="normative"><title>Voting During and Between TC Meetings</title><p id="_a70e117f-13b1-4494-8af4-c15aee654962">The following policies address voting during and between TC meetings. One of the primary functions of the TC is to vote on a variety of actions, items, and issues. Votes can be for any purpose pertaining to the format and content of the Abstract Specification, Candidate standards, OGC standards, Discussion Papers, approval of the slate of nominations for the OGC Architecture Board, Best Practices Documents, Policies and Procedures of the TC, and for other purposes consistent with the purpose of the TC as described in these Policies and Procedures. The TC will make recommendations to the PC concerning adoption of a candidate standard, changes to a standard, creation of a Working Group, a Best Practice, or a policy document and these recommendations require further approval by the PC.</p>
+	<clause id="quorum-for-a-tc-meeting" obligation="normative"><title>Quorum for a TC Meeting</title><p id="_8316657d-e212-4bc4-a4da-08ba0f388fc2">The quorum for any meeting of the Technical Committee Members shall be 1/3 of the total Voting membership as comprised by the Strategic, Principal, Technical, and Technical Aggregate Members. If there is quorum, then a simple majority of the Voting TC Members present at a meeting shall constitute a positive vote for all TC Items and Issues. A roll call will be held at the beginning of each Plenary where votes are to occur to ensure a quorum is present.</p>
+	<p id="_30c588ff-5be8-4380-b16e-12fe99cfe11b">The only exception for this Quorum rule is for a vote to issue an electronic vote for adoption of a new or revised version of a candidate standard, creation of a Working Group, a Best Practice, or a policy document. In this case, a simple majority vote of those TC Voting members present constitutes a successful vote.</p></clause>
+	<clause id="three-week-rule" obligation="normative"><title>Three Week Rule</title><p id="_c9f9fc41-8bf6-4f69-b5a0-baebd2a04efd">For votes that require documentation, such as adoption of particular documents as standards or documents to be released for public comment, one third of the Voting TC members in attendance may invoke the requirement that documentation supporting the vote must be available three weeks prior to the vote. The TC may override the 3-week rule by a 2/3-majority vote of Voting TC members in attendance at a meeting.</p>
+	<p id="_a651d562-9826-4e5d-8da3-7946196c7774">The three-week rule clause ensures that Voting TC members have adequate time to read, distribute and gather comments on documents before voting on the document at the following TC meeting.</p></clause>
+(XML Line 000333): Hanging paragraph in clause
+	<clause id="voting-at-tc-meetings" obligation="normative"><title>Voting at TC Meetings</title><p id="_5c727922-f27e-4692-8601-5fc41d50c3f1">Many votes happen during a face-to-face TC Meeting. Votes can occur in a TC Plenary or in any sub-group meeting. Votes may be related to document actions, recommendations for staff action, formation of new sub-groups, approval of WG charters, and so forth. This section provides guidance on the policies and procedures related to votes at TC meetings.</p>
+	<clause id="votes-that-can-occur-at-a-tc-dwg-face-to-face-meeting" obligation="normative"><title>Votes that can occur at a TC DWG Face to Face Meeting</title><p id="_88de5606-41ab-4377-8fac-8b586d11aa1d">Any number of votes can occur at a TC DWG meeting. No prior notice is required to have a vote at a DWG meeting during a TC. Any member representative attending a DWG may vote. However, only one member representative from a member organization may vote in a DWG. Any member representative attending a DWG can frame a motion.</p>
+	<p id="_54933c82-4c06-4156-a36c-1410cc9fa48e">The votes that may occur at a DWG are:</p>
+	<ul id="_8e370e01-5e88-4359-83e3-cf66b15a2508">
+	<li>
+(XML Line 000423): Hanging paragraph in clause
+	<clause id="tc-electronic-voting" obligation="normative"><title>TC Electronic Voting</title><p id="_01eb3440-9dc1-42b4-ad26-76bde85935c4">At any time, the TCC, the TC, or a subgroup of the TC may recommend starting an electronic vote. Initiation of electronic votes may be brought by motion and second at a TC plenary meeting, a WG meeting, or by direct action of the TCC. Please refer to <xref target="Table-1"/> for what membership level is allowed to vote for any particular vote. The following rules are for official OGC votes related to:</p>
+	<ul id="_fd67393c-a0e1-4019-8fee-18a06e3b3cae">
+	<li>
+	<p id="_b93b8893-1194-4136-ba33-0b16518b3844">Adoption of an OGC Abstract and Implementation standards;</p>
+	</li>
+(XML Line 000575): Hanging paragraph in clause
+	<clause id="policies-and-procedures-for-subgroups-of-the-tc" obligation="normative"><title>Policies and Procedures for Subgroups of the TC</title><p id="_e890c6c8-5c09-471e-a9dc-2effa619c2f8">This section describes the Policies and Procedures for Sub-groups of the TC. This includes Domain Working Groups (DWGs) and Standards Working Groups (SWGs).</p>
+	<clause id="membership-in-tc-subgroups" obligation="normative"><title>Membership in TC Subgroups</title><p id="_42895bdc-28d0-4fab-b9d5-db20a6c66626">A subgroup is composed solely of representatives of current OGC members and (potentially) Invited Guests. Each type of group is chartered by simple majority vote of the TC in the course of normal business and ratified by the PC.</p>
+	<p id="_064492d2-27c3-473d-98b3-e080249f1a8c">The following rules apply to membership in subgroups of the TC.</p>
+	<ul id="_da6365af-ba3a-4003-9646-fcbbc0127cc1">
+	<li>
+(XML Line 000635): Hanging paragraph in clause
+	<clause id="formation-of-a-sub-groupworking-group" obligation="normative"><title>Formation of a Sub-Group/Working Group</title><p id="_576dca1f-b4a7-48c8-b137-0ef390f692ba">At any time, a group of Members may determine that a new area of technology or domain exploration is required. This interest may lead to the formation of a new OGC Working Group. The following are the usual steps related to the formation of a new WG. Typically, the first step is to call an ad-hoc meeting at a face-to-face TC meeting. An ad-hoc meeting is to 1.) judge interest in forming the new sub-group and 2.) define the scope of work for the proposed new sub-group.</p>
+	<clause id="ad-hoc-meetings" obligation="normative">
+	<title>Ad-hoc Meeting(s)</title>
+	<p id="_278fcaf1-a5e8-45c8-b932-468676872461">Any group of OGC members can schedule an ad-hoc meeting. The interested members develop a basic agenda and draft mission statement for the work of the group and call for an ad-hoc meeting at a scheduled TC event or by teleconference/webinar. Like any sub-group, they shall schedule a meeting time and post the meeting time information on the OGC Portal Calendar. Also, like any other sub-group meeting of the TC, they shall announce the meeting to the broader TC and communicate an agenda. At this Ad-hoc meeting, the participants continue to frame the mission and the scope for a proposed new WG or other OGC activity. They must also determine whether there is adequate Member interest to actually form a new WG.</p>
+	</clause>
+(XML Line 000642): Hanging paragraph in clause
+	<clause id="approval-of-a-sub-group-charter" obligation="normative"><title>Approval of a Sub-Group Charter</title><p id="_7c3aa2b1-cacb-4fe1-96ee-116cfc5cfb99">Once the Charter is completed and agreed to by the members of the Ad-hoc, the following process if followed for approval of the Charter.<note id="_c32f277a-f6ce-4a7d-93fb-9a01875d76a2">
+	<p id="_03e00d09-ed9e-4fb6-8ff3-49dfe1cda72a">For a Standards Working Group (SWG) charter, the ad-hoc is the submission team.</p>
+	</note><note id="_f26ad2c9-4628-469e-966f-311307828a07">
+	<p id="_a1957ad7-5923-4e98-b03c-d911fbd14575">For a SWG Charter, please review <xref target="policies-specific-to-a-standards-working-group-swg"/> for specific requirements related to the formation of a Standards Working Group (SWG).</p>
+	</note></p>
+(XML Line 000695): Hanging paragraph in clause
+	<clause id="policies-specific-to-a-domain-working-group" obligation="normative"><title>Policies Specific to a Domain Working Group</title><p id="_312dbcf6-465d-4761-8778-a8078befbd7d">This section describes the formation, role, and responsibilities of a Domain Working Group (DWG).</p>
+	<clause id="voting-in-a-dwg" obligation="normative"><title>Voting in a DWG</title><p id="_571485e9-d00e-4374-a15c-5934a5f92314">Voting in DWGs is by simple majority of OGC Members present at the DWG meeting, not just Voting TC Members, with the caveat that no OGC Member organization may cast more than one vote in a WG vote.</p>
+	<note id="_65e36718-6c00-4516-ab43-8b428aec5a98">
+	<p id="_baf2f07a-8321-4c16-b01c-59b44389a791">It was felt that WGs should be able to use all of the expertise at hand in arriving at recommendations. All TC member organizations could be represented (and <em>vote</em>) at WG meetings in order to allow the expression of all members’ opinions. OGC Voting TC Members are protected from control by non-voting members by virtue of the fact that WGs may only form recommendations to the TC and not final TC votes. WG minutes are also available to <em>all</em> members of the TC, so that other TC members may understand and accept or reject WG recommendations.</p>
+	</note></clause></clause>
+(XML Line 000700): Hanging paragraph in clause
+	<clause id="policies-specific-to-a-standards-working-group-swg" obligation="normative"><title>Policies Specific to a Standards Working Group (SWG)</title><p id="_b3eb4b75-313b-405d-8ecd-7acc2f7a1cbd">A SWG may be formed whenever:</p>
+	<ul id="_5742d331-834b-4a21-b90d-f979bfeee28c">
+	<li>
+	<p id="_6eac7378-e265-4eda-a56a-afc3fa83edf9">Three or more members provide an RFC submission for a candidate standard;</p>
+	</li>
+(XML Line 000718): Hanging paragraph in clause
+	<clause id="the-swg-charter" obligation="normative"><title>The SWG Charter</title><p id="_6f7b1f5a-e4f2-4dcf-87d8-e508738c1363">The Charter documents the scope of work, references, business value, and projected timeline for the new SWG. There is a formal OGC template for a SWG charter. This template may be downloaded from <eref type="inline" bibitemid="OGCPortalTemplates" citeas="OGC Portal Templates"/>.</p>
+	<clause id="ipr-rules-for-a-new-swg" obligation="normative"><title>IPR rules for a new SWG</title><p id="_14c64992-66eb-458b-8a45-44c058067abb">The charter of each SWG shall also specify whether the SWG to be formed is a RAND-Royalty Free SWG or a RAND-for Fee SWG. For a complete discussion of the OGC Intellectual Property Rights (IPR) policies, please refer to <eref type="inline" bibitemid="OGCIPR" citeas="OGC Intellectual Property Rights (IPR) policies"/>.</p>
+	<p id="_4d4af33b-560f-4386-923d-d6d98558d7d2">The OGC IPR policy is similar to those of other voluntary standards organizations.</p></clause>
+	<clause id="persistent-swgs" obligation="normative">
+	<title>Persistent SWGs</title>
+(XML Line 000795): Hanging paragraph in clause
+	<clause id="public-release-of-swg-documents" obligation="normative"><title>Public Release of SWG Documents</title><p id="_a3c097c9-f89b-4df8-be32-9f1056b4346d">At any time, the SWG voting members may agree to release any SWG in-progress technical document into a public forum, to another standards organization, or to the public for comment. Such an action requires a formal SWG motion and SWG vote as per <xref target="swg-voting"/>.</p>
+	<clause id="release-of-documents-for-public-comment" obligation="normative">
+	<title>Release of document(s) for public comment</title>
+	<p id="_d79b18cd-bb27-4334-bee2-c0d51e9f1b57">At any time, the SWG can vote to release an in-progress candidate standard for public comment. Please remember that there is the official formal 30-day public comment period. However, a SWG is encouraged to release an in-progress document early in the process in order to solicit input from the community. If a SWG votes to release a document for early public comment, it must coordinate with OGC Communications to generate a press release and properly create the Call for Comments (RFC) on the OGC website.</p>
+	</clause></clause>
+(XML Line 000813): Hanging paragraph in clause
+	<clause id="document-types-and-document-processes-of-the-tc" obligation="normative"><title>Document Types and Document Processes of the TC</title><p id="_b208d94b-dd03-4351-b373-8442d9da6ab6">This section describes the various OGC documents and document handling processes that are the responsibility of the TC.</p>
+	<clause id="an-ogc-policy-document" obligation="normative"><title>An OGC Policy Document</title><p id="_d895dce9-eddd-43c0-b54d-de907fe3ad9e">A policy is a principle, rule or process that guide decisions to achieve rational outcome(s). The work of the OGC is guided by a number of Member approved policies and processes. These policies and processes are documented in various OGC Policies and Procedures documents. These shall be known as “Policy” documents. This TC P&amp;P is a policy document. Policy documents are either maintained by the Members or by OGC staff. In all cases, new policy documents or revisions to existing policy documents shall be reviewed and approved by both the Technical and Planning Committees. Approval of a policy document shall follow the e-voting rules as defined in <xref target="tc-electronic-voting"/>. If the TC approves the Policy document, then a simple majority of the PC Voting Members must approve the TC recommendation.</p>
+	<p id="_cf28b3a2-0db7-4232-8f37-6f1761e05af5">Policy documents have version numbers that shall start at 1.0</p></clause>
+	<clause id="the-standards-document" obligation="normative"><title>The Standards Document</title><p id="_83982112-b924-424f-b32c-8269fd5552e1">An OGC standards document is the principal document type that captures the work and the consensus of the OGC membership. Standards documents must use the OGC standards document template (with the exception of Community standards) that can be downloaded in Word format from: <eref type="inline" bibitemid="OGCPortalTemplates" citeas="OGC Portal Templates"/> or which is available in the OGC GitHub repository as a series of AsciiDoc files.<note id="_8832825a-6a9e-4971-a36d-4fd339f46ec4">
+	<p id="_7a5201d0-98af-4405-a5f4-17a2fd4245f9">While there is not a formal requirement for a Community standard to use the OGC document template for a standard the OGC encourages the Candidate standard submission team to consider using the OGC document template.</p>
+(XML Line 000835): Hanging paragraph in clause
+	<clause id="best-practices-documents" obligation="normative"><title>Best Practices Documents</title><p id="_c9f83069-2017-4af1-b3a4-a603257b7bc8">OGC Members, TC subgroups, or Interoperability Initiatives may generate Best Practices (BP) Documents for the industry covering best practices related to the use of an OGC standard or other technology relevant to one or more OGC standards. A best practice is a technique or methodology that, through experience, implementation and research, has proven to reliably lead to a desired result.</p>
+	<p id="_18cfa156-b754-422a-9e12-d18ebc9ca60c">BP documents have version numbers that shall start at 1.0.</p>
+	<clause id="submission-of-documents-to-be-considered-as-an-ogc-best-practice" obligation="normative"><title>Submission of documents to be considered as an OGC Best Practice</title><p id="_8534908a-adaa-4c7e-9ba8-3c5d7edde1c5">In order to be considered for approval as an OGC BP, the document submitters shall provide the following.</p>
+	<ul id="_7a64e3f0-9d63-43c3-ba00-be38871edfff">
+	<li>
+(XML Line 000856): Hanging paragraph in clause
+	<clause id="documents-and-distribution" obligation="normative"><title>Documents and Distribution</title><p id="_d75f1249-9a92-47d1-8018-6f22c9cfef04">The numbered document (see <xref target="document-numbers"/>) as distributed to members is to be considered the official document of the TC. Electronic mail shall be used for day-to-day discussion of OGC documents. The preferred mechanism for document sharing is the OGC Members-only Portal. OGC Communication shall be used for announcing the availability of new official documents. The actual documents will not be distributed by email unless a member requests receiving a document by email. All official documents will be posted to the Portal. Other electronic forms of documents can be made available at the written request of members.</p>
+	<p id="_4620831c-cac9-4df4-a2da-35dd61e098b7">The Members section of the OGC Portal (<eref type="inline" bibitemid="OGCPortal" citeas="OGC Portal"/>) shall provide the default method of disseminating documents in electronic form. The TCC or his designee shall determine the electronic distribution format of these documents.<note id="_aa074e11-d758-4e1c-ad90-ed7a6549186c">
+	<p id="_3e368d10-7c18-4fb4-b53f-3a1f669597b0">Typically, official documents are provided to the public in Word <tt>.doc</tt> format or Adobe PDF format. However, various presentations, draft documents, and so forth can also be distributed in PowerPoint format, HTML, and other formats as provided by the Members. The TCC reserves the right to reject a document that is in a non-industry standard distribution format.</p>
+	</note></p>
+	
+(XML Line 000922): Hanging paragraph in clause
+	<clause id="policy-for-the-retiring-deprecating-or-rescinding-ogc-documents" obligation="normative"><title>Policy for the Retiring, Deprecating, or Rescinding OGC Documents</title><p id="_7009fc77-4618-4d17-8742-eb768b883bfe">This section provides the policy and procedure for retiring, deprecating, or rescinding OGC documents. Note that retiring, deprecating, or rescinding an OGC standard results in the same fate for all extensions to that standard; such a fate is version-dependent: only the extensions specific to the exact version of the standard being retired, deprecated, or rescinded will share that fate. Deprecation of a standard does not automatically result in the deprecation of a profile of that standard.</p>
+	<clause id="retiring-ogc-documents" obligation="normative"><title>Retiring OGC Documents</title><p id="_734de862-7b42-4699-b1f6-63687bbe5636">“Retirement” criteria can be based on one or more of the following:</p>
+	<ul id="_53b43e9a-6d51-4b23-9d85-a828311a6386">
+	<li>
+	<p id="_b775bce7-7431-494b-89c5-f22898480f9d">A document is no longer technically up to date;</p>
+(XML Line 000979): Hanging paragraph in clause
+	<clause id="policies-and-procedures-for-adoption-andor-revisions-of-standards" obligation="normative"><title>Policies and Procedures for Adoption and/or Revisions of Standards</title><p id="_3cbec861-c346-43b7-b2eb-0d43bc147b97">This section covers procedures for adoption, revision, and maintenance of OGC standards. For the purposed of clarity, the term “standards” covers both the candidate abstract and implementation cases.</p>
+	<clause id="standards-proposed-for-adoption-caveats" obligation="normative"><title>Standards Proposed for Adoption – Caveats</title><p id="_e8559456-5b8a-4f3d-8c39-64deabb83069">Only Voting TC Members of the OGC may propose candidate standards for adoption by OGC.</p>
+	<p id="_32a9b45d-d674-42bd-aa88-3218df6d50a7">All adoption votes to approve a document as an OGC standard shall be electronic. Only Voting TC Members may vote on an adoption vote. However, any OGC member, regardless of membership level, can 1.) be part of a team submitting a candidate document and 2.) join a SWG and work on a candidate standard.</p>
+	<p id="_0171bc73-bef5-4789-a16d-271d0626e44f">The TC e-vote is to recommend to the PC approval of the results of an adoption vote. This will ensure that all TC voting members have the opportunity to vote on the most important work done by the Consortium. Lack of a vote does not count as a vote of Abstain; only an actual vote of Abstain counts as such a vote.<note id="_51bb540f-fa63-4aed-8db6-21638d2dd9f5">
+	<p id="_ae188cdf-19fe-4d58-abc0-d5681871d0ee">It is felt that this most important TC vote should encompass the entire Voting TC membership, rather than a portion of a meeting quorum, to allow all OGC Voting TC Members to have control over the issue. Note that the TCC does not cast a vote in the specification adoption process as the TCC vote may only be used in the case of a tie. Under the rules of the new OGC IPR policy, all Specification votes will be by electronic vote. As such, the entire TC voting membership will have the opportunity to vote.</p>
+(XML Line 000991): Hanging paragraph in clause
+	<clause id="the-two-track-standards-process-characteristics" obligation="normative"><title>The Two Track Standards Process: Characteristics</title><p id="_16296088-3f03-4b4b-bef2-b8dd02c0f931">There are two possible tracks for proposing and approving candidate standards or proposing and approving revisions to an existing adopted standard: The OGC Community standard and the OGC Full Standards track. These two tracks are described below. Regardless of the submission track, the OGC Request For Comment (RFC) Process shall be used. There are key differences in the RFC process depending on whether the Community or the Full Standard track is being used. The following table summarizes the key aspects and steps in the RFC process for the two tracks.</p>
+	<table id="_37217b21-04cd-48cb-bfd0-ec62ac2fb7ff">
+	<tbody>
+	<tr>
+	<td valign="top" align="left"/>
+(XML Line 000992): Table should have title
+	<table id="_37217b21-04cd-48cb-bfd0-ec62ac2fb7ff">
+	<tbody>
+	<tr>
+	<td valign="top" align="left"/>
+	<td valign="top" align="left">SWG</td>
+(XML Line 001060): Hanging paragraph in clause
+	<clause id="policies-for-the-request-for-comment-rfc-process" obligation="normative"><title>Policies for the Request for Comment (RFC) Process</title><p id="_6da1b17e-3a15-4523-bf33-30d9564b301d">The following sections details the requirements, policies, and procedures for adoption of a candidate standard using the OGC RFC process. Each section specifies whether that step or requirement in the process is for All submissions, Community standard only, or Full Standard track only. Please also refer to  <xref target="annex-b-rfc-process-outline-full-ogc-standard"/> of this document for a synopsis of the steps in the RFC process for the Full Standard track.</p>
+	<clause id="conditions-for-submission-of-an-rfc" obligation="normative"><title>Conditions for Submission of an RFC</title><p id="_ab72a0a7-4b56-43c6-8c50-57ff8b547779">Any OGC Technical Committee Voting Member may make an unsolicited submission of a candidate standard or a proposal for the development of a new candidate standard using the RFC process given that for the submission, the following conditions are met.</p>
+	<ul id="_f864579b-0a87-410f-b8fa-c085fcf7ff4d">
+	<li>
+	<p id="_3b0b99d3-7ff1-4cea-9424-baa48a8c379c">Three different Member organizations endorse the submission.</p>
+(XML Line 001115): Hanging paragraph in clause
+	<clause id="specific-process-requirements-for-the-submission-of-a-community-standard-cs" obligation="normative"><title>Specific process requirements for the submission of a Community standard (CS)</title><clause id="notify-tc-chair" obligation="normative"><title>Notify TC Chair</title><p id="_5698111a-076b-4bd8-9c11-b9a4c3527274">The submission team shall notify the Technical Committee Chair of the intent to submit a Community standard. This notification may be done using email. The notification shall include the organization names of the submission team. The notification shall also include agreement to the following statement:</p>
+	<p id="_da08a9c2-24d9-41cd-bc0e-fdca1a43268f">The companies &lt;list of companies/organizations&gt; have granted the Open Geospatial Consortium (OGC) a nonexclusive, royalty free, paid up, worldwide license to copy and distribute this document and to modify this document and distribute copies of the modified version.</p></clause>
+	<clause id="submission-justification-document-process" obligation="normative"><title>Submission justification document process</title><p id="_6308f368-8b9d-4ccc-b322-22dcd0d141cb">The submission team shall provide a written justification as to why the Community standard process can be used. This justification shall also include the reasons why the candidate standard may not need to be aligned with the OGC Abstract Specification and Standards Baseline. There is a template for this justification (OGC 16-113, Community Standard Justification Template).</p>
+	<p id="_a2679a25-b5e4-469d-bcca-29bdf179e84b">Once the submission team completes a draft of the justification document, they shall provide the TCC the draft. The TCC shall review the draft and provide comments and guidance back to the submission team. The Submission Team reviews the TCC comments and modifies the justification as required. When the Submission Team agrees that the justification document is complete, the convener shall post the justification document to pending documents. The document shall be posted as a Public document!</p></clause>
+	<clause id="submission-justification-document-member-review-process" obligation="normative"><title>Submission justification document: Member review process</title><p id="_a7b35402-3598-43b6-8964-05de9d16e017">Once the justification document is posted to pending, the TCC shall:</p>
+(XML Line 001140): Hanging paragraph in clause
+	<clause id="required-components-of-the-rfc-submission-package" obligation="normative"><title>Required components of the RFC Submission Package</title><p id="_286fff03-72ec-4702-9227-acad0a89b92a">In addition to the candidate standard document, all RFC submissions must include a signed Cover Letter and if required a signed OGC Technology Submission form for each submission.</p>
+	<clause id="submission-cover-letter-all" obligation="normative">
+	<title>Submission Cover Letter (All)</title>
+	<p id="_360db95a-1c7d-4424-b59e-49a8173b7c05">The lead organization on each RFC submission shall provide a Cover Letter stating the intent of the organization to support the SWG and related RFC process. The cover letter may be in the form of an email correspondence.</p>
+	</clause>
+(XML Line 001152): Hanging paragraph in clause
+	<clause id="main-steps-in-the-rfc-process" obligation="normative"><title>Main Steps in the RFC Process</title><p id="_2bb51a2f-e790-4745-9149-9927b2b63e8a">The steps in the OGC RFC Process are as follows.</p>
+	<clause id="submission-of-the-rfc-package-to-the-ogc-all" obligation="normative"><title>Submission of the RFC package to the OGC (All)</title><p id="_8119623f-18ca-42a9-a6ae-cb9bf83f75b6">The RFC Submission team shall provide the submission package to the OGC TCC. The TCC shall review the proposal in terms of required documents.</p>
+	<p id="_582caf92-43b6-4eec-821a-1752b3ab19f1">For a Community standard, the submission package shall include:</p>
+	<ul id="_e85260d2-f0cc-4a8e-bdb6-c75b89d07fc2">
+	<li>
+(XML Line 001279): Hanging paragraph in clause
+	<clause id="specific-policies-regarding-abstract-specification-topics" obligation="normative"><title>Specific Policies Regarding Abstract Specification Topics</title><p id="_66b26775-71f7-49da-a871-9a3dbaeb8cb9">The OGC Abstract Specification Development, Revision, and Approval process is the same as for any OGC standard except for documents that originated in an Authoritative Standards Development Organization (Authoritative SDO) or are joint standards activities between OGC and the Authoritative SDO. The remainder of this subsection provides details on the approval of such documents as OGC Abstract specifications.</p>
+	<clause id="authoritative-standards-development-organization" obligation="normative"><title>Authoritative Standards Development Organization</title><p id="_71428b8d-ccb8-475c-be61-2758e2a7c221">An Authoritative SDO is an organization which operates on a consensus basis to develop standards and which has been designated to be an Authoritative SDO by the PC. An Authoritative SDO develops key foundational standards which provide a basis for conceptual and implementation standards created by the OGC. These foundational standards may be approved to be part of the OGC Abstract Specification. A list of Authoritative SDOs shall be maintained by the Standards Program. ISO is already considered to be an Authoritative SDO.</p>
+	<p id="_78013fec-8b12-4d23-92a3-16da06d233c9">The Authoritative SDO shall be notified if one of its Standards is proposed by the OGC to be a Topic of the Abstract Specification. The Authoritative SDO shall have the opportunity to reject the OGC proposal, in which case the Authoritative SDO Standard may still be used as a normative reference by other OGC standards, but will not be a part of the OGC Abstract Specification. There is no requirement that the Authoritative SDO provide its Standard to the OGC by any basis other than the normal distribution mechanism for the Authoritative SDO, although provision of the standard for no fee is preferred.</p></clause>
+	<clause id="scope-and-content" obligation="normative"><title>Scope and Content</title><p id="_5e6296f3-43f7-4a41-b317-b0b0a9709dd2">The scope of the Abstract Specification (AS) will include any items that the OGC Technical Committee deems appropriate for achieving interoperability in the geodata and geoprocessing market. The AS may include data models, processing models, or other items necessary to implement the mission of the Technical Committee as defined by the OGC Planning Committee from time to time.</p>
+	<p id="_394a5f8c-2710-48ff-b3cb-5213c5082467">The detail of the Abstract Specification shall be sufficient to provide normative references, including models, and technical guidelines as a foundation for standards. Each standard, to the extent possible, will provide unambiguous normative and informative information that allows for implementation of standards in industry-standard software.</p>
+(XML Line 001294): Hanging paragraph in clause
+	<clause id="authoritative-sdo-documents-as-ogc-abstract-specifications" obligation="normative"><title>Authoritative SDO Documents as OGC Abstract Specifications</title><p id="_5e46945f-0638-48da-86a7-44c56abb83d5">A new AS Topic Volume or a revision to an existing AS Topic volume may be proposed by the OGC members for the case in which the document was created in an Authoritative SDO activity or a joint OGC and Authoritative SDO-developed activity. There are the two cases: A document entirely developed in the Authoritative SDO and then recommended by OGC members to be an Abstract Specification and a document jointly developed by the OGC and Authoritative SDO memberships. Each case is now described.<note id="_ab7170ff-7fcc-4623-a9a2-12e1e85a3393">
+	<p id="_fabe2dbf-76ef-4f42-bdf9-2b3c5bfc8c94">Please refer to the <eref type="inline" bibitemid="ISOOGCTOR" citeas="ISO-OGC Terms of Reference"/> for details of the working relationship between the OGC and ISO TC 211 — Geomatics.</p>
+	</note></p>
+	
+	<clause id="authoritative-sdo-standard-as-an-ogc-abstract-specification-topic-volume" obligation="normative"><title>Authoritative SDO Standard as an OGC Abstract Specification Topic Volume</title><p id="_9fc093aa-7381-4d30-873a-53436335771b">For this case, the Authoritative SDO Standard in question must be at a published or FDIS (Final Draft International Standard, in the case of ISO) status.</p>
+(XML Line 001349): Hanging paragraph in clause
+	<clause id="change-request-proposals-crp-to-an-ogc-document" obligation="normative"><title>Change Request Proposals (CRP) to an OGC document</title><p id="_40da6f18-4e7c-448d-ad7b-59ab492b1839">At any time, any OGC member or non-member can submit a CRP. A CRP allows for the formal documentation of a proposed change to an existing, adopted OGC standard or abstract specification. The change could be an identified error (see <xref target="corrigendum-errata-changes-to-ogc-standards-full-standard"/>), an inconsistency, a requested enhancement, or a major proposed enhancement. Completed CRP’s shall be submitted on-line using the CR submission application on the OGC web site. Submitted CRP’s are catalogued and stored on a publicly accessible site (see <eref type="inline" bibitemid="OGCCRApp" citeas="OGC Change Request Application"/>).</p>
+	<p id="_12847a67-2c06-4765-aafd-d1ad6de980ab">CRP’s are used as the basis for new SWG work items. The SWG will only consider proposed changes and enhancements to an adopted implementation that have been documented using the CRP template.</p>
+	<p id="_657ba021-1fc0-46b9-8c7a-f3932530ca38">If a SWG does not exist for a given standard and there are CRP proposals for that standard, the TCC shall constitute a new SWG under the P&amp;P outlined in the <xref target="policies-specific-to-a-domain-working-group"/>.</p>
+	<clause id="submission-of-change-request-proposals" obligation="normative">
+	<title>Submission of Change Request Proposals</title>
+(XML Line 001379): Hanging paragraph in clause
+	<clause id="the-standard-revision-process-full-standard" obligation="normative"><title>The Standard Revision Process (Full Standard)</title><p id="_7389458e-9eda-4aa7-8825-4f0c7cd71bd5">A primary function of a Standards Working Group (SWG) is to edit a candidate standard based on either a) comments received as part of the RFC process or b) the contents of one or more official OGC Change Request Proposal(s). If any member feels that a standard needs to be changed, edited, or enhanced, they must submit a Change Request Proposal.</p>
+	<p id="_94afb7ab-950c-4a7d-8b7e-6e9ed70c65e9">All voting in a SWG, whether for processing a candidate standard or for revisions to an existing standard will follow the rules as defined for <xref target="swg-voting"/>.</p>
+	<clause id="the-revision-process" obligation="normative"><title>The Revision Process</title><p id="_4a4518b9-5080-433c-9221-5bbfdf4815eb">The SWG reviews requests for revisions and corrections to a standard. Requests for revisions must be in the form of comments received during any public review period, such as for the RFC process, or in the form of official CRPs. Ad-hoc emails and verbal requests at meetings will not be considered as official CRPs. However, the SWG may vote to discuss issues that have not been submitted as CRPs, and may vote to direct one or more of its members to create official CRPs to document an agreement reached as the result of those discussions.</p>
+	<clause id="swg-review-of-change-proposals" obligation="normative"><title>SWG Review of Change Proposals</title><p id="_eb622bee-246d-49f6-8c7c-4af75ba2f5ca">As part of a revision process, the SWG processes CRPs. Please refer to <xref target="change-request-proposals-crp-to-an-ogc-document"/> for additional policies and procedures related to change request proposals. Once a list of change proposals has been compiled and the SWG has discussed the proposed changes, the SWG voting members shall vote on the disposition of each of the proposed changes. The SWG has the right to reject a recommended revision, comment, or correction but must provide a written justification for the rejection.</p>
+	<p id="_459ad8f3-b462-4db7-ac45-5f2abaa4d8a9">Based on the outcome of the votes, SWG members then make the revisions and corrections to the target standard. Comments or CRPs received after the formation of a new SWG may or may not be considered for incorporation. This is at the discretion of the members of the SWG.</p></clause>
+(XML Line 001381): Hanging paragraph in clause
+	<clause id="the-revision-process" obligation="normative"><title>The Revision Process</title><p id="_4a4518b9-5080-433c-9221-5bbfdf4815eb">The SWG reviews requests for revisions and corrections to a standard. Requests for revisions must be in the form of comments received during any public review period, such as for the RFC process, or in the form of official CRPs. Ad-hoc emails and verbal requests at meetings will not be considered as official CRPs. However, the SWG may vote to discuss issues that have not been submitted as CRPs, and may vote to direct one or more of its members to create official CRPs to document an agreement reached as the result of those discussions.</p>
+	<clause id="swg-review-of-change-proposals" obligation="normative"><title>SWG Review of Change Proposals</title><p id="_eb622bee-246d-49f6-8c7c-4af75ba2f5ca">As part of a revision process, the SWG processes CRPs. Please refer to <xref target="change-request-proposals-crp-to-an-ogc-document"/> for additional policies and procedures related to change request proposals. Once a list of change proposals has been compiled and the SWG has discussed the proposed changes, the SWG voting members shall vote on the disposition of each of the proposed changes. The SWG has the right to reject a recommended revision, comment, or correction but must provide a written justification for the rejection.</p>
+	<p id="_459ad8f3-b462-4db7-ac45-5f2abaa4d8a9">Based on the outcome of the votes, SWG members then make the revisions and corrections to the target standard. Comments or CRPs received after the formation of a new SWG may or may not be considered for incorporation. This is at the discretion of the members of the SWG.</p></clause>
+	<clause id="internal-review-and-public-comment" obligation="normative"><title>Internal Review and Public Comment</title><p id="_24734dc6-93c9-4a9d-9715-5b384c649989">When the SWG work items are complete and with the approval of the voting members of the SWG, the new revised standard may be submitted to the OAB and OGC-NA for a review and subsequent release for the 30-day public comment period.</p>
+	<p id="_c1a61bbe-39cf-43b5-9e91-af580ef36cc7">From this point on, the processing of the revision to the standard is the same as defined in <xref target="review-of-the-received-comments-all"/> and subsequent sections.</p></clause></clause>
+(XML Line 001445): Hanging paragraph in clause
+	<clause id="proprietary-rights-copyrights-and-disclosure" obligation="normative"><title>Proprietary Rights, Copyrights, and Disclosure</title><clause id="proprietary-rights" obligation="normative"><title>Proprietary Rights</title><note id="_bebefb54-bf62-4eb9-b17c-d9f6c9dc71a6">
+	<p id="_4839926e-7070-4c9c-baa6-14631f058ebf">Please read the OGC IPR Policy documents located at <eref type="inline" bibitemid="OGCLegal" citeas="OGC Legal Documents"/> for the complete text and description of the OGC IPR policy. If at any time there is confusion or conflict between what is stated in the TC P&amp;P and the OGC IPR Policy, the OGC IPR Policy takes precedent.</p>
+	</note>
+	<p id="_004fad53-185f-4feb-ac98-c5e4c47aa4a9">During any meeting of the OGC Technical Committee or any subgroup of the TC, no participant shall disclose proprietary information.<note id="_73c28e2a-9226-4ef3-94d9-5f279aaa3a76">
+	<p id="_aa8e8b7f-2fff-4716-bb83-aa4c2de56dc1">This section clearly places the onus of protection of proprietary rights on the owner of those rights. No discussion of proprietary technology can take place during a TC or TC subgroup meeting, protecting the participants in the meeting from accidental exposure to proprietary information (and consequent future legal problems with that participant’s own intellectual property rights). If a TC member wishes to present information of a proprietary nature to members of the TC, he or she may arrange a meeting of the interested parties totally separate from the TC process and meeting.</p>
+(XML Line 001467): Hanging paragraph in clause
+	<clause id="tc-planning-committee-representatives" obligation="normative"><title>TC Planning Committee Representatives</title><clause id="role-and-responsibilities" obligation="normative"><title>Role and Responsibilities</title><p id="_e2410c78-1b50-45db-b977-87578efcf96b">As stated in the Bylaws of the OGC, the OGC TC has the right to seat two representatives on the OGC PC. Up to seven representatives may be available in a “pool” and the TCC will work with the representatives to choose the two to attend a specific PC meeting. This section details the role and responsibilities of these individuals and the process for their election.</p>
+	<p id="_42e713bd-4e14-4e6a-94e2-97f78c2b32ba">The role of a TC Representative to the PC is to bring issues of concern to the general TC membership to the attention of the PC and to keep the TC apprised of the activity of the PC. Responsibilities of the representatives include the following:</p>
+	<ul id="_88a837f1-83b3-4adb-ab47-694dafed7264">
+	<li>
+	<p id="_9c176f4d-15e5-4318-bf4e-f1004946ea40">Accept documented issues from TC members and bring these forward at PC meetings;</p>
+(XML Line 001678): Table should have title
+	<table id="_809788ca-4a1b-48c1-b679-8385f265d99c">
+	<thead>
+	<tr>
+	<th valign="top" align="left">Full standard: Process Checklist</th>
+	<th valign="top" align="left">Responsible</th>
+(XML Line 001905): Hanging paragraph in clause
+	<annex id="annex-c---community-standard" obligation="informative"><title>Community Standard</title><clause id="c.1-qualification-checklist-community-standards" obligation="informative"><title>Qualification Checklist – Community Standards</title><p id="_caff195f-ddf7-4468-8475-cb03630c51a0">The following is a list of questions that the submission team needs to answer in the affirmative prior to submitting community specification into the OGC.</p>
+	<ol id="_7a54e810-b23c-4db2-a093-aa7af616a8dc" type="arabic">
+	<li>
+	<p id="_25dbc261-1963-4ca9-ad7d-a0c77b47551b">Does the submission team understand that copyright and intellectual property (PR) shall be vested or shared with the OGC? Note: If the plan is to move the document to Provisional or Full standard status, all IP shall be vested to the OGC.</p>
+	</li>
+(XML Line 001923): Table should have title
+	<table id="_4823d6f9-563b-4f3a-9f34-dc105be61c59">
+	<thead>
+	<tr>
+	<th valign="top" align="left">Community Specification: Process Checklist</th>
+	<th valign="top" align="left">Responsible</th>
+
+
+== Metanorma XML Syntax
+
+(XML Line 000082:34): multiple definitions of "DocumentSubtype" without "combine" attribute
